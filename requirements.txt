@@ -1,6 +1,7 @@
 xgboost
 pandas
 numpy==1.26.4
+gradio==4.36.1
 scikit-learn
 catboost
 tensorflow
