@@ -120,10 +120,10 @@ team_names = ['Knicks',
 with gr.Blocks() as demo:
     # gr.Image("../Documentation/Context Diagram.png", scale=2)
     # gr(title="Your Interface Title")
-    gr.Markdown("""
+    gr.HTML("""
                 <center> 
                 <span style='font-size: 50px; font-weight: Bold; font-family: "Graduate", serif'>
-                MLB Score Predictor V2
+                NBA Score Predictor
                 </span>
                 </center>
                 """)
