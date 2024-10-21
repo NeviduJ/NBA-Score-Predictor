@@ -123,7 +123,7 @@ with gr.Blocks() as demo:
     gr.Markdown("""
                 <center> 
                 <span style='font-size: 50px; font-weight: Bold; font-family: "Graduate", serif'>
-                NBA Score Predictor 
+                MLB Score Predictor V2
                 </span>
                 </center>
                 """)
